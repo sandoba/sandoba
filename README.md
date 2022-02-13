@@ -1,6 +1,6 @@
 ## Welcome to the GitHub profile of SANDOBA//EBUSINESS SOLUTIONS (www.sandoba.com)! 👋
 
-SANDOBA offers **full stack web development** from 🏙 **Berlin, Germany**, since 2002, specific to each customers individual needs.
+SANDOBA//EBUSINESS SOLUTIONS offers **full stack web development** from 🏙 **Berlin, Germany**, since 2002, specific to each customers individual needs.
 We are your specialists for **eBusiness** / **eCommerce** (Shopping cart solutions), **Content Management** (CMS), **APIs / interfaces**, **Data Science / AI**, **project outsourcing** and much more. Services available in German and English for domestic and international customers.
 
 We usually work on behalf of other agencies, rolling out new projects together for their customers, refactoring / migrating / upgrading existing projects, automating procedures to limit manual daily tasks, crunching numbers for big data sets for visualization, gathering new data on web scale (through our custom crawling infrastructure and a META API platform connecting hundreds of services), code analysis etc.
@@ -44,6 +44,6 @@ Get in contact if you'd like to lift your or your customers projects to the next
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code (IDE)" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="SSH" width="20">][website]
 
-- as well as countless additional technologies / tools specific to each project / customer requirements (e.g. internal/external APIs, other Javascript/PHP frameworks)
+- as well as countless additional technologies / tools specific to each project / customer requirements (e.g. internal / external APIs, other JavaScript / PHP frameworks)
 
 [website]: https://www.sandoba.com/
