@@ -30,7 +30,7 @@ Get in contact if you'd like to lift your or your customers projects to the next
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="20">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20">][website]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-original.svg" alt="LESS" width="20">][website]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="LESS" width="20">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="20">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git (Version management)" width="20">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer (Package management)" width="20">][website]
