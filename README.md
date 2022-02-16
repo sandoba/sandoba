@@ -1,3 +1,5 @@
+![background](https://raw.githubusercontent.com/sandoba/sandoba/main/images/background.png)
+
 ## Welcome to the GitHub profile of SANDOBA//EBUSINESS SOLUTIONS (www.sandoba.com)! 👋
 
 SANDOBA//EBUSINESS SOLUTIONS offers **full stack web development** from 🏙 **Berlin, Germany**, since 2002, specific to each customers individual needs.
