@@ -9,7 +9,7 @@ We usually **work on behalf of other agencies**, rolling out new projects togeth
 
 Get in contact if you'd like to lift your projects or your customers projects to the next level.
 
-*Public repositories will be launching soon.*
+*Public repositories will be launching soon.* ..
 
 ---
 
