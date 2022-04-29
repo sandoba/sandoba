@@ -18,7 +18,7 @@ Get in contact if you'd like to lift your projects or your customers projects to
 - 📫 Email: info@sandoba.com
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="LinkedIn" width="20"> Twitter: https://twitter.com/sandoba
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="20"> Facebook: https://www.facebook.com/sandobadev/
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"> LinkedIn: https://www.linkedin.com/in/robertfischerdev/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"> LinkedIn: https://www.linkedin.com/in/sandobadev/
 
 ### 👨‍💻 Tech Stack for modern projects
 
