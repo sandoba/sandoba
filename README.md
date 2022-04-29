@@ -1,4 +1,4 @@
-[![background](https://raw.githubusercontent.com/sandoba/sandoba/main/images/background.png)][website]
+[![background](https://raw.githubusercontent.com/sandoba/sandoba/main/images/cover.png)][website]
 
 ## Welcome to the GitHub profile of SANDOBA//EBUSINESS SOLUTIONS (www.sandoba.com)! 👋
 
