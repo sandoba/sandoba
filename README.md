@@ -3,9 +3,11 @@
 ## Welcome to the GitHub profile of SANDOBA//EBUSINESS SOLUTIONS (www.sandoba.com)! 👋
 
 SANDOBA//EBUSINESS SOLUTIONS offers **full stack web development** from 🏙 **Berlin, Germany**, since 2002, specific to each customers individual needs.
-We are your specialists for **eBusiness**, **eCommerce** (shopping cart solutions), **Content Management Systems** (CMS), **API's / interfaces**, **Data Science / AI**, **project outsourcing** and much more. Our focus though is on **PHP frameworks such as Symfony** & **custom, tailor made solutions**. With the extremely flexible and powerful PHP framework Symfony you are at the technological forefront and your projects can grow with no end in sight. Services are available in German and English for domestic and international customers.
+We are your specialists for **eBusiness**, **eCommerce** (shopping cart solutions), **Content Management Systems** (CMS), **API's / interfaces**, **Data Science / AI**, **project outsourcing** and much more. Our focus though is on modern, lightning fast **PHP frameworks such as Symfony** & **custom, tailor made solutions**. With the extremely flexible and powerful PHP framework Symfony you are at the technological forefront and your projects can grow with no end in sight. Services are available in German and English for domestic and international customers.
 
-We usually **work on behalf of other agencies**, rolling out new projects together for their customers, refactoring / migrating / upgrading existing projects, automating procedures to limit manual daily tasks, crunching numbers for big data sets (e.g. for visualization / dashboards), gathering new data on web scale (through our custom crawling infrastructure and a META API platform connecting hundreds of external API's), code analysis etc.
+We usually **work on behalf of other agencies**, rolling out new projects together, refactoring / migrating / upgrading existing projects, automating procedures to limit manual daily tasks, crunching numbers for big data sets (e.g. for visualization / dashboards), gathering new data on web scale (through our custom crawling infrastructure and a META API platform connecting hundreds of external API's), code analysis etc.
+
+If you are a retail customer, SANDOBA is also glad to be your competent solution provider and project partner for PHP/Symfony projects.
 
 Get in contact if you'd like to lift your projects or your customers projects to the next level.
 
@@ -13,7 +15,7 @@ Get in contact if you'd like to lift your projects or your customers projects to
 
 ---
 
-**Informationen auf Deutsch** finden Sie direkt auf [https://www.sandoba.com/][website]
+**Informationen auf Deutsch** finden Sie direkt auf [https://www.sandoba.com/de/][website]
 
 ---
 
