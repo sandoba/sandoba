@@ -30,7 +30,7 @@ Get in contact if you'd like to lift your projects or your customers projects to
 
 - Hundreds of successful projects delivered based on modern web technologies with a varied, ever evolving tech stack such as:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP 7/8" width="20" align="left">][website]
+[<img src="https://raw.githubusercontent.com/sandoba/sandoba/main/images/php-original.svg" alt="PHP 7/8" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony (PHP framework)" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel (PHP framework)" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL / MariaDB (Database)" width="20" align="left">][website]
@@ -52,5 +52,9 @@ Get in contact if you'd like to lift your projects or your customers projects to
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="SSH" width="20">][website]
 
 - as well as countless additional technologies / tools specific to each project / customer requirements (e.g. internal / external APIs, other JavaScript / PHP frameworks)
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandoba&theme=github)
 
 [website]: https://www.sandoba.com/
