@@ -3,15 +3,15 @@
 ## Welcome to the GitHub profile of SANDOBA//EBUSINESS SOLUTIONS (www.sandoba.com)! 👋
 
 SANDOBA//EBUSINESS SOLUTIONS offers **full stack web development** from 🏙 **Berlin, Germany**, since 2002, specific to each customers individual needs.
-We are your specialists for **eBusiness**, **eCommerce** (shopping cart solutions), **Content Management Systems** (CMS), **API's / interfaces**, **Data Science / AI**, **project outsourcing** and much more. Our focus though is on modern, lightning fast **PHP frameworks such as Symfony** & **custom, tailor made solutions**. With the extremely flexible and powerful PHP framework Symfony you are at the technological forefront and your projects can grow with no end in sight. Services are available in German and English for domestic and international customers.
+We are your specialist for **eBusiness**, **eCommerce** (shopping cart solutions), **Content Management Systems** (CMS), **APIs**, **Data Science / AI**, **project outsourcing** and much more. Our focus though is on modern, lightning fast **PHP frameworks such as Symfony & Shopware** & **custom, tailor made solutions**. With the extremely flexible and powerful PHP framework Symfony you are at the technological forefront and your projects can grow with no end in sight. Symfony-based Shopware enables you to run online shops that adapt to your requirements. Services are available in German and English for domestic and international customers.
 
-We usually **work on behalf of other agencies**, rolling out new projects together, refactoring / migrating / upgrading existing projects, automating procedures to limit manual daily tasks, crunching numbers for big data sets (e.g. for visualization / dashboards), gathering new data on web scale (through our custom crawling infrastructure and a META API platform connecting hundreds of external API's), code analysis etc.
+We usually **work on behalf of other agencies**, rolling out new projects together, refactoring/migrating/upgrading existing projects, automating procedures to limit manual daily tasks, crunching numbers for big data sets (e.g. for visualization/dashboards), gathering new data on web scale (through our custom crawling infrastructure and a META API platform connecting hundreds of external APIs), code analysis etc.
 
-If you are a retail customer, SANDOBA is also glad to be your competent solution provider and project partner for PHP/Symfony projects.
+If you are a retail customer, SANDOBA is also glad to be your competent solution provider and project partner for PHP/Symfony/Shopware projects.
 
 Get in contact if you'd like to lift your projects or your customers projects to the next level.
 
-*Public repositories (for PHP/Symfony) will be launching soon.*
+*Public repositories (for PHP/Symfony/Shopware) will be launching soon.*
 
 ---
 
@@ -19,14 +19,14 @@ Get in contact if you'd like to lift your projects or your customers projects to
 
 ---
 
-### 🤝 Get in contact for project outsourcing, cooperation & more
+### 🤝 Get In Contact for Project Outsourcing, Cooperation & More
 
 - 📫 Email: info@sandoba.com
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="LinkedIn" width="20"> Twitter: https://twitter.com/sandoba
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="20"> Facebook: https://www.facebook.com/sandobadev/
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"> LinkedIn: https://www.linkedin.com/company/sandobadev/
 
-### 👨‍💻 Tech Stack for modern projects
+### 👨‍💻 Tech Stack for Modern Projects
 
 - Hundreds of successful projects delivered based on modern web technologies with a varied, ever evolving tech stack such as:
 
@@ -51,7 +51,7 @@ Get in contact if you'd like to lift your projects or your customers projects to
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code (IDE)" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="SSH" width="20">][website]
 
-- as well as countless additional technologies / tools specific to each project / customer requirements (e.g. internal / external APIs, other JavaScript / PHP frameworks)
+- as well as countless additional technologies / tools specific to each project / customer requirements (e.g. internal/external APIs, other JavaScript/PHP frameworks)
 
 ---
 
