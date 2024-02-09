@@ -32,7 +32,7 @@ Get in contact if you'd like to lift your projects or your customers projects to
 
 [<img src="https://raw.githubusercontent.com/sandoba/sandoba/main/images/php-original.svg" alt="PHP 7/8" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony (PHP framework)" width="20" align="left">][website]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel (PHP framework)" width="20" align="left">][website]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel (PHP framework)" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL / MariaDB (Database)" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20" align="left">][website]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" align="left">][website]
