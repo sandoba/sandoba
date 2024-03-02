@@ -5,13 +5,13 @@
 SANDOBA//EBUSINESS SOLUTIONS offers **full stack web development** from 🏙 **Berlin, Germany**, since 2002, specific to each customers individual needs.
 SANDOBA is your specialist for **eBusiness**, **eCommerce** (shopping cart solutions), **Content Management Systems** (CMS), **APIs**, **Data Science / AI**, **external project implementation** and much more. The main focus is on modern, lightning fast **PHP frameworks such as Symfony, TYPO3 & Shopware**, as well as **custom, tailor made solutions**.
 
-With the extremely flexible and powerful PHP framework **Symfony** you are at the technological forefront and your projects can grow with no end in sight. Symfony-based **Shopware** enables you to run online shops that adapt to your requirements. And **TYPO3** as a well known CMS partially built on Symfony gives your editors a comfortable, easy to learn work environment while enabling a developer like SANDOBA to customize the solution specific to your professional requirements. Services are available in German and English for domestic and international customers.
+With the extremely flexible and powerful PHP framework **Symfony** you are at the technological forefront and your projects can grow with no end in sight. Symfony-based **Shopware** enables you to run online shops that adapt to your requirements. And **TYPO3** as a well known CMS partially built on Symfony gives your editors a comfortable, easy to learn work environment while enabling a developer like SANDOBA to customize the solution specific to your professional requirements.
 
 SANDOBA usually **works on behalf of other agencies**. Together we roll out new projects, refactor / migrate / upgrade existing projects, automate procedures to limit manual daily tasks, crunch numbers for big data sets (e.g. for visualization / dashboards), gather new data on web scale (through a custom crawling infrastructure and a META API platform connecting hundreds of external APIs), do code analysis etc.
 
-If you are a retail customer, SANDOBA is also glad to be your competent solution provider and project partner for PHP, Symfony, TYPO3 & Shopware projects.
+If you are a **retail customer**, SANDOBA is also glad to be your competent solution provider and project partner for PHP, Symfony, TYPO3 & Shopware projects.
 
-Get in contact if you'd like to lift your projects or your customers projects to the next level.
+Services are available in German and English for domestic and international customers. Get in contact if you'd like to lift your projects or your customers projects to the next level.
 
 *Public repositories (for PHP/Symfony/TYPO3/Shopware) will be launching soon.*
 
